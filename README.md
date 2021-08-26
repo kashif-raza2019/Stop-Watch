@@ -1,11 +1,31 @@
-# Stop-Watch
-Chrome Extension for a Stop-Watch Timer (Needs implementations )
-### How to use it?
-Clone this repo (make sure to star it too!) then,<br />
-Go to: chrome://extensions and with developer options click on load unpack
-Select the clonned directory and here you go!
-IMAGE: 
-![New Tab - Google Chrome 8_26_2021 7_51_23 PM](https://user-images.githubusercontent.com/56609517/130980315-d2261ba0-f0e3-410a-8635-4ee83c3a8dcd.png)
+# Google Chrome Extension
+
+# Introduction
+
+<img src="https://p.kindpng.com/picc/s/77-772110_calculator-icon-png-calculator-icon-transparent-png.png">
+
+### Calculator
+
+# Describtion
+ 
+The project is for the tutorial purpose regarding **How to create google chrome extension**
+
+### Read the article
+Blog : [Create a Chrome Extension with HTML, CSS, and JavaScript](https://daily.dev/blog/create-chrome-extension-with-html-css-and-javascript)
+
+# ScreenShot
+
+<img src="https://assets.website-files.com/5e0f1144930a8bc8aace526c/602fdc9a8ec01a8479d610cd_calculator.png">
+
+# Installation
+
+- Clone this project `git clone `
+- Go to extenion manager in chrome
+- Load the extension into the chrome
+
+# Licence
+
+MIT LICENCE
+Read `Licence` document for more details
 
 
-### If Possible after some updations i will publish it too!

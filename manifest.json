@@ -1,0 +1,15 @@
+{
+    "manifest_version" : 2,
+    "name" : "Stop Watch",
+    "version" : "1.0",
+    "description" : "Stop-Watch timer for Work or Study or Even Listening to Music",
+    "icons" : {
+        "128" : "img/icon.png",
+        "48" : "img/icon.png",
+        "16" : "img/icon.png"
+    },
+    "browser_action" : {
+        "default_icon" : "img/icon.png",
+        "default_popup" : "index.html"
+    }
+}
